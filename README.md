@@ -5,9 +5,9 @@ These are my dotfiles.
     <th>File</th><th>Purpose</th>
   </tr>
   <tr>
-    <td>.emacs</td><td>Configuration for [GNU Emacs](http://www.gnu.org/software/emacs/)</td>
+    <td>.emacs</td><td>Configuration for [http://www.gnu.org/software/emacs/](GNU Emacs)</td>
   </tr>
   <tr>
-    <td>.tmux.conf</td><td>Configuration for [tmux](http://tmux.sourceforge.net/)</td>
+    <td>.tmux.conf</td><td>Configuration for [http://tmux.sourceforge.net/](tmux)</td>
   </tr>
 </table>
