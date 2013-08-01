@@ -11,6 +11,9 @@ These are my dotfiles.
     <td>.tmux.conf</td><td>Configuration for <a href="http://tmux.sourceforge.net/">tmux</a></td>
   </tr>
   <tr>
-    <td>.zshrc</td><td>Configuration for <a href="http://zsh.sourceforge.net/">zsh</a></td>
+    <td>.zshrc</td><td>Main configuration for <a href="http://zsh.sourceforge.net/">zsh</a></td>
+  </tr>
+  <tr>
+    <td>.zshenv</td><td>Environment configuration for <a href="http://zsh.sourceforge.net/">zsh</a></td>
   </tr>
 </table>
