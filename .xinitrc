@@ -1,0 +1,2 @@
+xscreensaver -nosplash &
+exec awesome
