@@ -5,6 +5,9 @@ These are my dotfiles.
     <th>File</th><th>Purpose</th>
   </tr>
   <tr>
+    <td>awesome</td><td>Configuration files for <a href="http://awesome.naquadah.org/">awesome</a></td>
+  </tr>
+  <tr>
     <td>.emacs</td><td>Configuration for <a href="http://www.gnu.org/software/emacs/">emacs</a></td>
   </tr>
   <tr>
