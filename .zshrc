@@ -95,3 +95,4 @@ alias -s tex=$EDITOR
 alias -s txt=$EDITOR
 alias -s pdf=zathura
 alias -s html=elinks
+alias -s jpg=feh

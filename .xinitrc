@@ -1,2 +1,12 @@
+# X.org daemons
 xscreensaver -nosplash &
-exec awesome
+
+# Desktop environments
+case $1 in
+kde)
+	exec startkde
+	;;
+awesome|*)
+	exec awesome
+	;;
+esac
