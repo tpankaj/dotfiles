@@ -40,7 +40,7 @@ ZSH_THEME="gallifrey"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(dircycle encode64 git gpg-agent golang mercurial pass perl pip svn urltools web-search)
+plugins=(archlinux dircycle encode64 git gpg-agent golang mercurial pass perl pip svn urltools web-search)
 
 source $ZSH/oh-my-zsh.sh
 
