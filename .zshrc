@@ -52,6 +52,13 @@ REPORTTIME="10"
 # Suffix Aliases
 alias -s tex=$EDITOR
 alias -s txt=$EDITOR
+alias -s docx=libreoffice
+alias -s doc=libreoffice
+alias -s odt=libreoffice
+alias -s ppt=libreoffice
+alias -s pptx=libreoffice
+alias -s xls=libreoffice
+alias -s xlsx=libreoffice
 alias -s pdf=zathura
 alias -s html=elinks
 alias -s jpg=feh
