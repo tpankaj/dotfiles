@@ -67,3 +67,4 @@ alias -s mp3=mplayer
 alias -s ogg=mplayer
 alias -s mp4=mplayer
 alias -s mkv=mplayer
+alias -s sla=scribus
