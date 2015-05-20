@@ -2,7 +2,7 @@
 source ~/.xprofile
 
 # Daemons
-dropboxd &
+dropbox &
 xscreensaver -nosplash &
 
 # Desktop environments
