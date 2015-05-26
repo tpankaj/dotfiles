@@ -69,4 +69,4 @@ alias -s mp4=mplayer
 alias -s mkv=mplayer
 alias -s sla=scribus
 
-alias feh=""
+#alias feh=""
