@@ -70,3 +70,4 @@ alias -s mkv=mplayer
 alias -s sla=scribus
 
 #alias feh=""
+alias octave="octave-cli"

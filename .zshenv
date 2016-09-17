@@ -4,4 +4,6 @@ export SUDO_EDITOR="emacs"
 export VISUAL="emacs"
 export EDITOR="emacs"
 #export PRINTER="HP_LaserJet_CP1025nw"
-export PRINTER="HP_LaserJet_Professional_P_1102w"
+#export PRINTER="HP_LaserJet_Professional_P_1102w"
+export PRINTER="Canon_MX920_series"
+
