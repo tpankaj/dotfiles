@@ -72,3 +72,9 @@ alias -s sla=scribus
 #alias feh=""
 alias octave="octave-cli"
 alias monitorall='dsh -o "-p 1022" -Mac -- remote-log'
+
+# OPAM configuration
+. /home/tushar/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+
+# ccache configuration
+export PATH="/usr/lib/ccache/bin/:$PATH"

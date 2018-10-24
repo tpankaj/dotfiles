@@ -25,3 +25,12 @@
 
 ;; Open PHP files in HTML mode
 (add-to-list 'auto-mode-alist '("\\.php$" . html-mode))
+
+;; OCaml Tuareg
+(load "/home/tushar/.opam/system/share/emacs/site-lisp/tuareg-site-file")
+
+;; ctags keybindings
+(global-set-key (kbd "M-*") 'pop-tag-mark)
+
+;; clang-format
+(load "/usr/share/clang/clang-format.el")
