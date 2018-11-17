@@ -75,4 +75,4 @@ alias octave="octave-cli"
 . /home/tushar/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
 
 # ccache configuration
-export PATH="/usr/lib/ccache/bin/:$PATH"
+#export PATH="/usr/lib/ccache/bin/:$PATH"

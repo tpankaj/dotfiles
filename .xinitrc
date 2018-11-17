@@ -7,8 +7,5 @@ xscreensaver -nosplash &
 redshift &
 
 # Desktop environments
-case $1 in
-awesome|*)
-	exec awesome
-	;;
-esac
+exec i3
+# exec awesome

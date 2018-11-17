@@ -1,4 +1,4 @@
-export PATH="/usr/local/go/bin:$HOME/.gem/ruby/1.8/bin:/usr/local/heroku/bin:$PATH"
+export PATH="$HOME/bin:/usr/local/go/bin:$HOME/.gem/ruby/1.8/bin:/usr/local/heroku/bin:$PATH"
 export GOPATH="$HOME/Development/Go"
 export SUDO_EDITOR="emacs"
 export VISUAL="emacs"
